@@ -1,7 +1,7 @@
 @echo off
 
 f:
-cd F:\SoftwareTest\zeng\02 InterfaceTest
+cd F:\SoftwareTest\Github\02 InterfaceTest
 
 git init
 git remote add gitee https://gitee.com/Cacho/InterfaceTest.git
